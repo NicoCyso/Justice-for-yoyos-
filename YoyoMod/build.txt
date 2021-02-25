@@ -1,0 +1,3 @@
+displayName = Justice for yoyos!
+author = NicoCyso
+version = 0.1
